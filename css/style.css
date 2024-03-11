@@ -82,6 +82,10 @@ img {
   vertical-align: middle;
 }
 
+.project-header {
+  font-size: 30px;
+}
+
 .img-fluid {
   max-width: 100%;
   height: auto;
